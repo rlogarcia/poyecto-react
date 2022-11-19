@@ -34,18 +34,12 @@ jspm_packages
 
 .node_repl_history
 
-# Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
 .yarn-integrity
 
-# Mac-specific file
 .DS_Store
 
-# ------------------------------------------------------------------------------
-# CUSTOM
-# ------------------------------------------------------------------------------
 public/images/portfolio
 resume.json
 bundle.js
