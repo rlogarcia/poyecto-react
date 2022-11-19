@@ -1,19 +1,16 @@
+# Roger Loaiza Gaarcia- Ingenieria en sistemas y telecomunicaciones
 
+a continuacion encontraras un breve paso a paso de lo que se hizo en el proyecto y las ayudas que se tuvieron para realizar el mismo, tambien los comandos mas mportantes que se deben de tener en cuenta para manejar react js
 
-The site has been shown as demo React.js project on the following sites:
+## Paso a Paso
 
-* [react.rocks](https://react.rocks/example/JSON_Resume)
-* [爱前端](http://www.17shulihua.com/archives/404)
-* [reactjsexample](https://reactjsexample.com/a-static-single-page-application-resume-builder-developed-using-react-js/)
-* [javascriptstuff](https://www.javascriptstuff.com/react-example-apps/#suddi)
-
-## Installation
+### 1. Installation
 
 ````sh
 npm install
 ````
 
-## Usage
+### 2.Usansa
 
 To run `webpack-dev-server` for local environment:
 
@@ -22,12 +19,19 @@ npm run bundles
 
 npm start
 ````
-You can view the site at [`http://localhost:8080`](http://localhost:8080).
+### Ingreso
 
-To bundle for deployment:
+http://localhost:8080
 
-````sh
-npm run bundle
-````
+## Tecnologias usadas
+- React js
+- HTML
+- Javascript
+- CSS
 
-You can view the live site at [suddi.io](https://suddi.io)
+## Enlaces de ayuda
+- https://github.com/suddi/suddi.github.io
+- https://www.youtube.com/watch?v=clIPZTUCCqE&ab_channel=NullSafeArchitect
+- https://www.youtube.com/watch?v=wzMbxFNu414&t=444s&ab_channel=medellinjs
+- https://www.youtube.com/watch?v=D9avX-jtIPM&t=388s&ab_channel=FaztCode
+
